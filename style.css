@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.porra {
+    text-align: center;
+}
